@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Service.deps.json
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Service.dll
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Service.pdb
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Core.dll
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Data.dll
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Core.pdb
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\bin\Debug\netcoreapp3.1\TestProject.Data.pdb
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.dll
+C:\Users\ASUS\Desktop\TestProject.API\TestProject.Service\obj\Debug\netcoreapp3.1\TestProject.Service.pdb
