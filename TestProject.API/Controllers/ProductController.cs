@@ -34,6 +34,7 @@ namespace TestProject.API.Controllers
             return Ok(_mapper.Map<IEnumerable<ProductDto>>(products));
         }
 
+        [ServiceFilter(typeof(NotFoundFilter))]
         [HttpGet("{id}")]
         public async Task<IActionResult>GetById(int id)
         {
@@ -42,7 +43,6 @@ namespace TestProject.API.Controllers
             return Ok(_mapper.Map<ProductDto>(products));
         }
 
-        [ValidationFilter]
         [HttpPost]
         public async Task<IActionResult> Save(ProductDto productDto)
         {
@@ -61,6 +61,7 @@ namespace TestProject.API.Controllers
            
         }
 
+        [ServiceFilter(typeof(NotFoundFilter))]
         [HttpDelete("{id}")]
         public IActionResult Remove(int id)
         {
@@ -71,6 +72,7 @@ namespace TestProject.API.Controllers
         }
 
 
+        [ServiceFilter(typeof(NotFoundFilter))]
         [HttpGet("{id}/categories")]
         public async Task<IActionResult>GetCategoriesById(int id)
         {
