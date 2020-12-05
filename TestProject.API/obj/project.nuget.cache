@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kCQxs5PlPkdmOa6WN9oezQUEy3Fk3Cp6gyMptOrx92YDtnVx16ushI377qC+VJ6vAuRD9Fyk8P4hDiilcBs2nA==",
+  "dgSpecHash": "p/VBNBHBAnFU+4yYt6VAvYrMaRsg2j7djR50PraT+oLsPyRBFi0WXGXouWH92D23tOPls4armxYUpT6P+nmfuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.API\\TestProject.API.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.API\\TestProject.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

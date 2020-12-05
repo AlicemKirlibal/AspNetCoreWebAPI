@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zw42raRkwSePwCkqO2z4mOVCtUhiGkLq6qT6Mm6i4XlN+hVQY/px9NneUic7Ewq+tswf9z2+vzdvylHia1FwBg==",
+  "dgSpecHash": "/W3YUT9qcTf9AZgmzQhyrBvsr/ln6CA9sOcTAYq1eyoRnC56ZO9ht2sym9E/AtFS3tGYdrN9p2hj0Rlt72cykA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Service\\TestProject.Service.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Service\\TestProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

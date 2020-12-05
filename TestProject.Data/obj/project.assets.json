@@ -4978,11 +4978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Data\\TestProject.Data.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Data\\TestProject.Data.csproj",
       "projectName": "TestProject.Data",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Data\\TestProject.Data.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Data\\TestProject.Data.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Data\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5001,8 +5001,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj"
+            "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj"
             }
           }
         }

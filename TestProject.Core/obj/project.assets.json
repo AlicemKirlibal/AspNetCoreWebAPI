@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj",
       "projectName": "TestProject.Core",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

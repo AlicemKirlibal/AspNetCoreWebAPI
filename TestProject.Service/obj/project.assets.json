@@ -4926,11 +4926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Service\\TestProject.Service.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Service\\TestProject.Service.csproj",
       "projectName": "TestProject.Service",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Service\\TestProject.Service.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Service\\TestProject.Service.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Service\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4949,11 +4949,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Core\\TestProject.Core.csproj"
+            "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Core\\TestProject.Core.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Data\\TestProject.Data.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API\\TestProject.Data\\TestProject.Data.csproj"
+            "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Data\\TestProject.Data.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\TestProject.API - MVC\\TestProject.Data\\TestProject.Data.csproj"
             }
           }
         }
