@@ -10,8 +10,6 @@ C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp3.1\TestProject.Web.Views.dll
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp3.1\TestProject.Web.Views.pdb
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.csprojAssemblyReference.cache
-C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.RazorAssemblyInfo.cache
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.RazorAssemblyInfo.cs
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.AssemblyInfoInputs.cache
@@ -35,3 +33,11 @@ C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.pdb
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.csproj.CopyComplete
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Category\Update.cshtml.g.cs

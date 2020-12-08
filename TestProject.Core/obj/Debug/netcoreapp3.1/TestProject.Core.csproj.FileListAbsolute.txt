@@ -7,3 +7,11 @@ C:\Users\ASUS\Desktop\TestProject.API\TestProject.Core\obj\Debug\netcoreapp3.1\T
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.dll
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.pdb
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.deps.json
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.pdb
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.pdb

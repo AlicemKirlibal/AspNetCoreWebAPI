@@ -30,7 +30,7 @@ namespace TestProject.API.Controllers
         {
             var categories = await _categoryService.GetAllAsync();
 
-            return Ok(_mapper.Map<IEnumerable<CategoryDto>>(categories));
+            return Ok(_mapper.Map<IEnumerable<CategoryDto>>(categories)); 
         }
 
 
@@ -51,17 +51,12 @@ namespace TestProject.API.Controllers
             return Ok(_mapper.Map<CategoryWithProductDto>(category));
         }
 
-
-
-
-
         [HttpPost]
         public async Task<IActionResult> Save(CategoryDto categoryDto)
         {
             var savedcategory = await _categoryService.AddAsync(_mapper.Map<Category>(categoryDto));
 
             return Created(string.Empty, _mapper.Map<CategoryDto>(savedcategory));
-
         }
 
         [HttpPut]

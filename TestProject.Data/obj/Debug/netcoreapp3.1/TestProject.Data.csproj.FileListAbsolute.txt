@@ -13,3 +13,18 @@ C:\Users\ASUS\Desktop\TestProject.API\TestProject.Data\bin\Debug\netcoreapp3.1\T
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.runtimeconfig.dev.json
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\TestProject.API\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.deps.json
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.runtimeconfig.json
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Data.pdb
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Core.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\bin\Debug\netcoreapp3.1\TestProject.Core.pdb
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.dll
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.pdb
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Data\obj\Debug\netcoreapp3.1\TestProject.Data.genruntimeconfig.cache
