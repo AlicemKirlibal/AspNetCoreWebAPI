@@ -27,6 +27,12 @@ namespace TestProject.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddHttpClient<ProductApiService>(opt =>
+            {
+                opt.BaseAddress = new Uri(Configuration["baseUrl"]);
+            });
+
             services.AddHttpClient<CategoryApiService>(opt =>
             {
                 opt.BaseAddress = new Uri(Configuration["baseUrl"]);

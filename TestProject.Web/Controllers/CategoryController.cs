@@ -64,7 +64,6 @@ namespace TestProject.Web.Controllers
         public async Task<IActionResult> Delete(int id)
         {
      
-
            await _categoryApiService.Remove(id);
             return RedirectToAction("Index");
 
