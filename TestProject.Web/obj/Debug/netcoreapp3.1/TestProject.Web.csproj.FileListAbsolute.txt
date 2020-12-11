@@ -115,3 +115,4 @@ C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\TestProject.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\TestProject.API - MVC\TestProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs

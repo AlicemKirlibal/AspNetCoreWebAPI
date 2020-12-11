@@ -58,6 +58,52 @@ namespace TestProject.Web.ApiService
 
         }
 
+        public async Task<ProductDto> GetByIdAsync(int id)
+        {
+            var response = await _httpClient.GetAsync($"product/{id}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                return JsonConvert.DeserializeObject<ProductDto>(await
+                    response.Content.ReadAsStringAsync());
+            }
+            else
+            {
+                return null;
+            }
+        }
+
+
+        public async Task<bool> Update(ProductDto productDto)
+        {
+            var stringContent = new StringContent(JsonConvert.SerializeObject(productDto), Encoding.UTF8, "application/json");
+
+            var response =await _httpClient.PutAsync("product", stringContent);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+        public async Task<bool> Remove(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"product/{id}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
 
 
     }

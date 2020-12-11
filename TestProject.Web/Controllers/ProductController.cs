@@ -40,6 +40,33 @@ namespace TestProject.Web.Controllers
             return RedirectToAction("Index");
         }
 
+ 
+        public async Task<IActionResult> Update(int id)
+        {
+            var product = await _productApiService.GetByIdAsync(id);
+            return View(_mapper.Map<ProductDto>(product));
+        } 
+
+
+        [HttpPost]
+        public async Task<IActionResult> Update(ProductDto productDto)
+        {
+            await _productApiService.Update(productDto);
+            return RedirectToAction("Index");
+        }
+
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _productApiService.Remove(id);
+            return RedirectToAction("Index");
+
+        }
+
+
+
+
+
 
     }
 }
